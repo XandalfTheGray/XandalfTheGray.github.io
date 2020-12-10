@@ -218,7 +218,7 @@ b {
 .custom-navbar .navbar-brand {
 	height: auto;
 	width: auto;
-	max-height: 100px;
+	max-height: 70px;
 	max-width: 400px;
 	line-height: 35px; 
 	vertical-align: middle;
@@ -234,7 +234,7 @@ b {
 	font-weight: 700;
 	letter-spacing: 0.6px;
 	text-transform: uppercase;
-	line-height: 40px;
+	line-height: 35px;
 	transition: all 0.4s ease-in-out;
 }
 
