@@ -218,7 +218,7 @@ b {
 .custom-navbar .navbar-brand {
 	height: auto;
 	width: auto;
-	max-height: 70px;
+	max-height: 100px;
 	max-width: 400px;
 	line-height: 35px; 
 	vertical-align: middle;
